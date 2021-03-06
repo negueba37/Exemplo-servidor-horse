@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/03/06 00:00:57.000.952,=C:\Users\PC1\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/03/06 00:23:48.000.233,C:\Projetos\Servidor\Project1.dproj=C:\Users\PC1\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2021/03/06 00:29:29.000.075,=C:\Projetos\Servidor\Unit1.pas</Transaction>
+    <Transaction>2021/03/06 00:45:29.000.886,C:\Projetos\Servidor\ServidorJs.dproj=C:\Projetos\Servidor\Project1.dproj</Transaction>
+    <Transaction>2021/03/06 00:45:40.000.575,C:\Projetos\Servidor\Server.dfm=C:\Projetos\Servidor\Unit1.dfm</Transaction>
+    <Transaction>2021/03/06 00:45:40.000.575,C:\Projetos\Servidor\Server.pas=C:\Projetos\Servidor\Unit1.pas</Transaction>
+    <Transaction>2021/03/06 00:46:08.000.088,=C:\Projetos\Servidor\Unit2.pas</Transaction>
+    <Transaction>2021/03/06 00:47:09.000.630,C:\Projetos\Servidor\src\Conexao\uDmpas.pas=C:\Projetos\Servidor\Unit2.pas</Transaction>
+    <Transaction>2021/03/06 00:47:09.000.630,C:\Projetos\Servidor\src\Conexao\uDmpas.dfm=C:\Projetos\Servidor\Unit2.dfm</Transaction>
+    <Transaction>2021/03/06 00:47:26.000.202,C:\Projetos\Servidor\src\Conexao\uDm.dfm=C:\Projetos\Servidor\src\Conexao\uDmpas.dfm</Transaction>
+    <Transaction>2021/03/06 00:47:26.000.202,C:\Projetos\Servidor\src\Conexao\uDm.pas=C:\Projetos\Servidor\src\Conexao\uDmpas.pas</Transaction>
+    <Transaction>2021/03/06 00:54:10.000.205,=C:\Projetos\Servidor\Unit1.pas</Transaction>
+    <Transaction>2021/03/06 00:54:40.000.746,C:\Projetos\Servidor\src\Entidades\uAmigos.pas=C:\Projetos\Servidor\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>

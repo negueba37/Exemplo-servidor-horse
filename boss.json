@@ -1,0 +1,13 @@
+{
+	"name": "Servidor",
+	"description": "",
+	"version": "1.0.0",
+	"homepage": "",
+	"mainsrc": "./",
+	"projects": [],
+	"dependencies": {
+		"github.com/hashload/horse": "^2.0.13",
+		"github.com/hashload/horse-cors": "^1.0.3",
+		"https://github.com/hashload/jhonson": "^1.1.1"
+	}
+}
